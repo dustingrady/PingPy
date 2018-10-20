@@ -1,5 +1,6 @@
 #Author: Dustin Grady
 #Function: Ping multiple servers for current status
+#Status: In Development
 
 import os
 import time
